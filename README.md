@@ -66,7 +66,6 @@ Building modern, responsive, and intelligent web applications
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
 
 - Deploy apps with **AWS** and **Render**  
-- Version control, CI/CD, containerization  
 
 ---
 
