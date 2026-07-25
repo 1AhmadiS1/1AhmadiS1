@@ -56,10 +56,8 @@ I believe in writing clean, maintainable code and continuously improving my skil
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1AhmadiS1&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1AhmadiS1&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1AhmadiS1&theme=github-dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
