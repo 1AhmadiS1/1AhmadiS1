@@ -59,7 +59,6 @@ I believe in writing clean, maintainable code and continuously improving my skil
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1AhmadiS1&theme=github_dark" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
