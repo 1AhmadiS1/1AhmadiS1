@@ -1,54 +1,82 @@
-#  Hi, I'm Ahmad Is'eed
+<h1 align="center">Hi 👋, I'm Ahmad Is'eed</h1>
 
-**Full-Stack Web Developer** 🚀 | **Computer Systems Engineer**  
-Building modern, responsive, and intelligent web applications
+<h3 align="center">
+Backend Developer (Django/DRF) • Full-Stack Developer (React)
+</h3>
+
+<p align="center">
+Building secure backend systems, scalable REST APIs, and modern web applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Systems Engineering graduate and Full-Stack Developer with a strong passion for backend development.
+
+I specialize in building secure, scalable, and maintainable applications using **Python**, **Django**, and **Django REST Framework**. I enjoy designing RESTful APIs, implementing authentication and authorization, writing automated tests, and deploying applications with Docker and AWS.
+
+On the frontend, I build responsive and user-friendly interfaces using **React**, **TypeScript**, **JavaScript**, and **Tailwind CSS**, enabling me to develop complete end-to-end web applications.
+
+I believe in writing clean, maintainable code and continuously improving my skills through building real-world software.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-TailwindCSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/> &nbsp;&nbsp;
-Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"/>  
+### 💻 Backend
 
----
+![Backend](https://skillicons.dev/icons?i=python,django)
 
-### 🖥️ Backend
-Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-Django REST <img src="https://img.icons8.com/color/48/000000/api.png" width="30" height="30"/>  
+- Django REST Framework
+- REST APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
 
-- REST API Development  
-- Server-side logic & authentication  
+### 🎨 Frontend
 
----
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap)
 
 ### 🗄️ Databases
-MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>  
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql)
+
+### ☁️ Cloud & DevOps
+
+![Cloud](https://skillicons.dev/icons?i=docker,aws,git,github)
+
+- Docker
+- AWS
+- Nginx
+- Gunicorn
+- Swagger / OpenAPI
+- Postman
 
 ---
 
-### ☁️ Deployment & Tools
-Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/> &nbsp;&nbsp;
-Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>  
+## 📊 GitHub Stats
 
-- Deploy apps with **AWS** and **Render**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1AhmadiS1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmadiS1&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1AhmadiS1&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔭 About Me
+## 🤝 Connect With Me
 
-I am a **Computer Systems Engineer** and Full-Stack Web Developer passionate about building modern, responsive, and scalable web applications.  
+- 💼 **LinkedIn:** linkedin.com/in/ahmad-is-eed
+- 📧 **Email:** ahmad.imad.iseed@gmail.com
 
-I work on **clean frontend interfaces** using React, TypeScript, Tailwind, and Bootstrap, and build **robust backend systems** with Django and Django REST Framework. I’m also skilled in **databases** like MySQL and PostgreSQL, and know how to deploy apps on AWS and Render.  
+---
 
-Currently, I’m expanding into **AI integration**, aiming to combine intelligent features like chatbots with full-stack web applications.
-
-I enjoy turning ideas into real-world products, writing clean code, and continuously learning and growing.
+<p align="center">
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
+</p>
