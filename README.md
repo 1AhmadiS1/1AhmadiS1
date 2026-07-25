@@ -52,9 +52,6 @@ I believe in writing clean, maintainable code and continuously improving my skil
 - Swagger / OpenAPI
 - Postman
 
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,ts,js,tailwind,postgres,mysql,docker,aws,git,github,postman" />
 </p>
