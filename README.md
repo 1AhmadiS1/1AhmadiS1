@@ -55,9 +55,9 @@ I believe in writing clean, maintainable code and continuously improving my skil
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1AhmadiS1&theme=darkhub&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1AhmadiS1&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1AhmadiS1&theme=github_dark" />
 </p>
 
 ---
